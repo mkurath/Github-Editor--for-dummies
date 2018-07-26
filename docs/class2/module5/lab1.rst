@@ -98,3 +98,6 @@ Static Content (images)
 .. |image506| image:: /_static/class1/image506.png
    :width: 6.25126in
    :height: 3.65672in
+.. |image507| image:: /_static/class1/image507.png
+   :width: 6.25126in
+   :height: 3.65672in
