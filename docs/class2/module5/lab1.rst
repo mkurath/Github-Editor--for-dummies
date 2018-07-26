@@ -57,7 +57,7 @@ Adding Sections
   - enter /lab1.rst  **Note: # will be your new subdirectory**
   - Paste the partial contents from the existing lab1.rst into the new file
   
-|image501|
+  |image501|
 
  #. Edit the new lab1.rst as sescribed in the preceeding chapter 
 
