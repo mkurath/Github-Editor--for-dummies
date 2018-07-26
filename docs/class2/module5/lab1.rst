@@ -75,8 +75,8 @@ Static Content (images)
   - Click the **Upload files button**
   - Drag the files to the screen
   - Press the **commit** button at the bottom
- #. images are embedded in a document by surrounding the reference with vertical bar  example **|imagexxx|**
- #. each image requires a pointer with sizing parameters 
+ #. Images are embedded in a document by surrounding the reference with vertical bar  example **|imagexxx|**
+ #. Each image requires a pointer with sizing parameters 
    |image507|
 
 
