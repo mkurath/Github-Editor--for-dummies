@@ -25,7 +25,23 @@ The format of this doc is all in the docs directory
 
 Clone an existing doc to a new repository
 -----------------------------------------------------------
-
+  #. Access your github repository
+  #. Select Repositories
+  
+   |image504|
+   
+  #. Click the new button
+   - name the new repository and click **Create repository** button
+ 
+   |image505|
+   
+  #. Select the **Import Code** button 
+  #. Input the source for the new repository 
+  #. Select the **Begin Import Button**
+   
+   |image506|
+   
+   .# You will recieve an email when the import is complete. This takes a few minutes
 Adding Sections
 -----------------------------------------------------------
  #. Create module**#**.rst and a lab1.rst in a new directory under docs/class2.
@@ -50,16 +66,32 @@ Adding Sections
 Static Content (images) 
 -----------------------------------------------------------
 
+ #. Images can be created usign the windows snipping tool and saving them as filename.png
+ #. Import images by navigating to the docs/_static/class1
+ #. Click the **Upload files button**
+ #. Drag the files to the screen
+ #. Press the **commit** button at the bottom
+  |image507|
+
 
 .. |image3| image:: /_static/class1/image3.png
    :width: 3.58333in
    :height: 4.96875in
-.. |image501| image:: /_static/class1/image301.png
+.. |image501| image:: /_static/class1/image501.png
    :width: 6.25126in
    :height: 3.65672in
-.. |image502| image:: /_static/class1/image302.png
+.. |image502| image:: /_static/class1/image502.png
    :width: 6.25126in
    :height: 3.65672in
-.. |image503| image:: /_static/class1/image401.png
+.. |image503| image:: /_static/class1/image503.png
+   :width: 6.25126in
+   :height: 3.65672in
+.. |image504| image:: /_static/class1/image504.png
+   :width: 6.25126in
+   :height: 3.65672in
+.. |image505| image:: /_static/class1/image505.png
+   :width: 6.25126in
+   :height: 3.65672in
+.. |image506| image:: /_static/class1/image506.png
    :width: 6.25126in
    :height: 3.65672in
