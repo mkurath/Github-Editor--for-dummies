@@ -67,12 +67,15 @@ Static Content (images)
 -----------------------------------------------------------
 
  #. Images can be created usign the windows snipping tool and saving them as filename.png
- #. Import images by navigating to the docs/_static/class1
- #. Click the **Upload files button**
- #. Drag the files to the screen
- #. Press the **commit** button at the bottom
+ #. Import images
+ 
+  - Navigate to the docs/_static/class1
+  - Click the **Upload files button**
+  - Drag the files to the screen
+  - Press the **commit** button at the bottom
+ #. images are embedded in a document by surrounding the reference with vertical bar  example **|imagexxx|**
+ #. each image requires a pointer with sizing parameters 
   |image507|
-
 
 .. |image3| image:: /_static/class1/image3.png
    :width: 3.58333in
