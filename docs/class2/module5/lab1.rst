@@ -77,6 +77,9 @@ Static Content (images)
  #. each image requires a pointer with sizing parameters 
   |image507|
 
+
+
+
 .. |image3| image:: /_static/class1/image3.png
    :width: 3.58333in
    :height: 4.96875in
