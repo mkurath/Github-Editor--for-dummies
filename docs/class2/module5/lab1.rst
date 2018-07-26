@@ -14,7 +14,9 @@ The format of this doc is all in the docs directory
  
   - _static
    - Images are stored in docs/_static/Class1
-  - class2 - Text formatting and dicument structure are  defined in this section
+  - index-rst
+   - Contains top level index information
+  - class2 - Text formatting and document structure are  defined in this section
    - class2.rst   Contains the structure of the top level title in the index
    - labinfo.rst  Contains the text of the top level title in the index
    - module**#**     Think about this as chapters. Each chapter has 2 components
@@ -28,18 +30,18 @@ Clone an existing doc to a new repository
   #. Access your github repository
   #. Select Repositories
   
-   |image504|
+    |image504|
    
   #. Click the new button
    - name the new repository and click **Create repository** button
  
-   |image505|
+    |image505|
    
   #. Select the **Import Code** button 
   #. Input the source for the new repository 
   #. Select the **Begin Import Button**
    
-   |image506|
+    |image506|
    
    .# You will recieve an email when the import is complete. This takes a few minutes
 Adding Sections
@@ -57,7 +59,7 @@ Adding Sections
   - enter /lab1.rst  **Note: # will be your new subdirectory**
   - Paste the partial contents from the existing lab1.rst into the new file
   
-  |image501|
+   |image501|
 
  #. Edit the new lab1.rst as sescribed in the preceeding chapter 
 
@@ -75,7 +77,7 @@ Static Content (images)
   - Press the **commit** button at the bottom
  #. images are embedded in a document by surrounding the reference with vertical bar  example **|imagexxx|**
  #. each image requires a pointer with sizing parameters 
-  |image507|
+   |image507|
 
 
 
